@@ -56,6 +56,7 @@ namespace ApiDemo
             {
                 //Result详情 见 [Result对象.xlsx(Company)] 
                 _outputHelper.WriteLine(jsonRet["Result"].ToString());
+
             }
             else
             {
